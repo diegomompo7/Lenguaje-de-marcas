@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Camisetas de fútbol</title>
+	<meta charset="utf-8">
+	<meta http-equiv="refresh" content="0">
+	<link rel="stylesheet" type="text/css" href="css/arcoiris.css">
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+<body>
+	<p>
+		mis camisetas de futbol
+	</p>
+	<p>
+		Real Madrid
+	</p>
+	<p>
+		Real Betis
+	</p>
+</body>
+</html>
