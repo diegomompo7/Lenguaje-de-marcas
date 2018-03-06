@@ -1,0 +1,15 @@
+h1 {
+	color:red;
+	font-size: 40pt;
+}
+h2, h3{
+		color: blue;
+		font-size: 16pt;
+}
+
+p {
+	font-family: Verdana;
+	font-size: x-small;
+	margin-left: 0.52in;
+	margin-right: 0.52in;
+}
