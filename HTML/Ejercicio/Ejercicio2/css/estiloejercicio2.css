@@ -1,0 +1,26 @@
+img.imagen{
+	width: 200px;
+	vertical-align: text-top;
+}
+.tipo1{
+	font-weight: bold;
+	font-size: 14pt;
+}
+.tipo2{
+	color: black;
+	font-size: 12;
+}
+.caja1{
+	width: 200px;
+  	font-size: 12px;
+  	border: 5px solid rgba(0,35,100,0);
+  	background: red;
+  	color: white;
+}
+.caja2{
+	width: 50px;
+  	font-size: 12px;
+  	border: 5px solid rgba(0,35,100,0);
+  	background: red;
+  	color: white;
+}
