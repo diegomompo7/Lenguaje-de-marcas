@@ -1,0 +1,15 @@
+.boton{
+	border:3px black;
+	background-color: gray;
+	color: black;
+}
+.boton:active{
+	background-color: dimgray;
+}
+.imagen{
+	border: 4px blue;
+	background-color: green;
+}
+.imagen2 {
+	background-color: red;
+}

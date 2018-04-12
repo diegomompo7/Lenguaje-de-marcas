@@ -18,9 +18,11 @@ img.imagen{
   	color: white;
 }
 .caja2{
-	width: 50px;
+	width: 120px;
   	font-size: 12px;
   	border: 5px solid rgba(0,35,100,0);
   	background: red;
   	color: white;
+  	
 }
+
